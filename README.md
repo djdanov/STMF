@@ -16,7 +16,7 @@ To run the script:
 2. Source expForecast.R and stmf.R  
 
 3. Run stmf(country_code) to get a coutry-specific STMF file (check the folder \output). Here the country_code is the HMD country code used in the STMF.
-For example, stmf("AUT"). The whole list of codesis available here: https://www.mortality.org/Public/STMF/Outputs/stmf.xlsx  
+For example, stmf("DNK"). The whole list of codesis available here: https://www.mortality.org/Public/STMF/Outputs/stmf.xlsx  
 
 4. Run  
 a = stmf(country_code)  
